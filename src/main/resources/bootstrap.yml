@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: @profileActive@ #指定使用环境
+
+
+
+
+
